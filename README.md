@@ -2,7 +2,9 @@
 
 ### Backend-Focused Full-Stack .NET Developer
 
-I build web applications and RESTful APIs using ASP.NET Core, Entity Framework Core, SQL Server, and Angular.
+I build web applications and RESTful APIs with **C#, ASP.NET Core, SQL Server, Entity Framework Core, and Angular**.
+
+My main focus is backend development, with a strong interest in clean architecture, testing, security, and building reliable web applications.
 
 ---
 
@@ -11,11 +13,11 @@ I build web applications and RESTful APIs using ASP.NET Core, Entity Framework C
 - 💻 Backend-focused Full-Stack .NET Developer
 - 🚀 Building RESTful APIs with ASP.NET Core
 - 🗄️ Working with SQL Server, Entity Framework Core, and Dapper
-- 🧪 Interested in Unit Testing and Integration Testing
-- 🏗️ Applying Clean Architecture and solid software engineering practices
+- 🏗️ Applying Clean Architecture and SOLID principles
+- 🔐 Working with Authentication & Authorization
+- 🧪 Writing Unit & Integration Tests
 - 🎨 Building frontend applications with Angular
-- 🔐 Working with authentication, authorization, and JWT
-- 📚 Continuously learning and improving my backend development skills
+- 📚 Continuously improving my software engineering skills
 
 ---
 
@@ -26,7 +28,7 @@ I build web applications and RESTful APIs using ASP.NET Core, Entity Framework C
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database
@@ -47,7 +49,6 @@ I build web applications and RESTful APIs using ASP.NET Core, Entity Framework C
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
 
 ---
@@ -56,57 +57,55 @@ I build web applications and RESTful APIs using ASP.NET Core, Entity Framework C
 
 ### 🛒 TechSouq
 
-Full-Stack E-Commerce Platform built with ASP.NET Core and Angular.
+**Full-Stack E-Commerce Platform** built with ASP.NET Core and Angular.
 
-**Features:**
+**Highlights**
 
 - Authentication & Authorization
 - Product Management
-- Shopping Cart
-- Orders
-- Coupons
-- Reviews
+- Shopping Cart & Orders
+- Coupons & Reviews
 - Payment Integration
 - Redis Caching
 - RESTful API
 
-**Tech Stack:**
+**Stack**
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `Angular` `TypeScript` `Redis`
 
-**Repositories:**
+**Repositories**
 
-- [Backend](https://github.com/Hosny-Ayman/TechSouq-Backend)
-- [Frontend](https://github.com/Hosny-Ayman/TechSouq-Frontend)
+[Backend](https://github.com/Hosny-Ayman/TechSouq-Backend) · [Frontend](https://github.com/Hosny-Ayman/TechSouq-Frontend)
 
 ---
 
 ### 🏥 ClinicFlow
 
-Clinic Management System built with ASP.NET Core Web API.
+**Clinic Management System** built with ASP.NET Core Web API and Angular.
 
-**Features:**
+**Highlights**
 
 - Authentication & Authorization
-- Doctor Management
-- Patient Management
-- Appointment Management
+- Doctor, Patient & Appointment Management
 - Clean Architecture
 - Integration Testing
-- xUnit
-- Respawn
+- xUnit & Respawn
 - Custom WebApplicationFactory
 - Swagger API Documentation
 
-**Tech Stack:**
+**Stack**
 
-`C#` `ASP.NET Core` `EF Core` `SQL Server` `xUnit` `Respawn`
+`C#` `ASP.NET Core` `EF Core` `SQL Server` `Angular` `xUnit`
+
+**Repositories**
+
+[Backend](https://github.com/Hosny-Ayman/ClinicFlow-Backend) · [Frontend Dashboard](https://github.com/Hosny-Ayman/ClinicFlow-Frontend-Dashboard)
 
 ---
 
-## 🧪 Testing
+## 🧪 Testing & Quality
 
-Currently working with:
+I focus on building maintainable and testable applications using:
 
 - Unit Testing
 - Integration Testing
@@ -118,36 +117,37 @@ Currently working with:
 
 ---
 
-## 🏗️ Development Principles
+## 🧠 Technical Knowledge
 
-- SOLID Principles
-- Clean Architecture
-- Separation of Concerns
-- Dependency Injection
-- DTOs
-- Repository Pattern
-- Validation
-- Authentication & Authorization
-- Maintainable and Testable Code
+I'm continuously building my knowledge in:
+
+- **C# & .NET**
+- **ASP.NET Core Web API**
+- **Entity Framework Core**
+- **SQL Server & Database Design**
+- **RESTful API Design**
+- **Authentication & Authorization**
+- **Clean Architecture**
+- **SOLID Principles**
+- **Testing & TDD**
+- **Git & GitHub**
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced ASP.NET Core
-- Unit & Integration Testing
-- TDD
-- Docker
-- CI/CD
+- Docker & CI/CD
 - System Design
 - Advanced Angular
 - RxJS
+- TDD
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm interested in opportunities where I can contribute as a .NET / Full-Stack Developer, with a strong focus on backend development.
+I'm interested in opportunities where I can contribute as a **.NET / Full-Stack Developer**, with a strong focus on backend development and building reliable web applications.
 
 ---
 
@@ -156,3 +156,7 @@ I'm interested in opportunities where I can contribute as a .NET / Full-Stack De
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosny-ayman/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosnyaymandev@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
